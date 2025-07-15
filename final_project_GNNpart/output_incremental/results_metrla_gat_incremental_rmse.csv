@@ -1,0 +1,13 @@
+dataset,stride,model,mode,rmse_mph
+adj_mx_knn_lane,1,gat,incremental,14.928993997438058
+adj_mx_knn_lane,12,gat,incremental,29.606534979117637
+adj_mx_knn_lane,288,gat,incremental,15.091388673953084
+adj_mx_knn,1,gat,incremental,16.344831623494894
+adj_mx_knn,12,gat,incremental,36.71744105588336
+adj_mx_knn,288,gat,incremental,18.50438552374616
+adj_mx_radius,1,gat,incremental,15.583630819053774
+adj_mx_radius,12,gat,incremental,20.911585568037395
+adj_mx_radius,288,gat,incremental,14.312213329975256
+adj_mx_radius_lane,1,gat,incremental,12.208987260431917
+adj_mx_radius_lane,12,gat,incremental,19.899957560624163
+adj_mx_radius_lane,288,gat,incremental,17.66454309445895
