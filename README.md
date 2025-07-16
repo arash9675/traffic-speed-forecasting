@@ -9,6 +9,7 @@ To access and use the models in this repository:
 1. **Navigate to the specific folder** containing the model you want to use:
    - `Graphformer/` - Contains the Graphformer model implementation
    - `final_project_GNNpart/` - Contains the GNN project implementation
+   - `Data Generation/` - Contains the code for generating the custom adjacency matrix
 
 2. **Read the README file** inside each folder for detailed instructions on:
    - Model setup and installation requirements
